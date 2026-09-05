@@ -1,0 +1,54 @@
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Domain.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\bin\Debug\net5.0\Domain.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastr.15EFFBFE.Up2Date
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll

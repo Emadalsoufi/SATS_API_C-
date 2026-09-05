@@ -1,0 +1,36 @@
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\bin\Debug\net5.0\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\bin\Debug\net5.0\Domain.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\refint\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\bin\Debug\net5.0\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\refint\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\Domain.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Domain\obj\Debug\net5.0\ref\Domain.dll

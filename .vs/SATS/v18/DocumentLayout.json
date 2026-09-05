@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FACFA4EA-3351-4109-BE9C-A671366F5624}|Application\\Application.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\application\\serviceimpl\\enrollmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACFA4EA-3351-4109-BE9C-A671366F5624}|Application\\Application.csproj|solutionrelative:application\\serviceimpl\\enrollmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACFA4EA-3351-4109-BE9C-A671366F5624}|Application\\Application.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\application\\iservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACFA4EA-3351-4109-BE9C-A671366F5624}|Application\\Application.csproj|solutionrelative:application\\iservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\infrastructure\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\infrastructure\\repository\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\domain\\interfaces\\irepository\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepository\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\domain\\interfaces\\irepository\\iauditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepository\\iauditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\attendancerecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\attendancerecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\attendancesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\attendancesessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\infrastructure\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430B3A7D-D0F3-4D9D-8E3A-B9426F7906C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\sats.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\sats.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\domain\\entities\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\domain\\entities\\attendancesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA175EA2-A28A-43E7-BB5D-C6905636D7C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\attendancesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|e:\\semester 5\\c#\\final project\\sats final project of c#\\sats final project of c#\\m.abah\\sats\\sats.api\\sats.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BA3CA3CF-CDDE-47B7-8EE4-F5FE62F4A6F0}|SATS.API\\SATS.API.csproj|solutionrelative:sats.api\\sats.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Application\\IService\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Application\\IService\\IEnrollmentService.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Application\\IService\\IEnrollmentService.cs",
+              "RelativeToolTip": "Application\\IService\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:53:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentServiceImpl.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Application\\ServiceImpl\\EnrollmentServiceImpl.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceImpl\\EnrollmentServiceImpl.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Application\\ServiceImpl\\EnrollmentServiceImpl.cs",
+              "RelativeToolTip": "Application\\ServiceImpl\\EnrollmentServiceImpl.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:48:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLogRepository.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Repository\\AuditLogRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AuditLogRepository.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Repository\\AuditLogRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AuditLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:39:16.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Repository\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\EnrollmentRepository.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Repository\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:24:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:19:21.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T19:11:20.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuditLogRepository.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Interfaces\\IRepository\\IAuditLogRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository\\IAuditLogRepository.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Interfaces\\IRepository\\IAuditLogRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepository\\IAuditLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:09:56.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Interfaces\\IRepository\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository\\IEnrollmentRepository.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Interfaces\\IRepository\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepository\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:06:47.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T19:11:06.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceRecordController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\AttendanceRecordController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\AttendanceRecordController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\AttendanceRecordController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\AttendanceRecordController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T19:07:17.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendanceSessionController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\AttendanceSessionController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\AttendanceSessionController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\AttendanceSessionController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\AttendanceSessionController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAywFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:06:22.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\AuditLogController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\AuditLogController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAywFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:05:09.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "SATS.API\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T04:17:52.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SATS.API\\appsettings.json",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\appsettings.json",
+              "RelativeToolTip": "SATS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T14:33:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "SATS.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:27:54.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Program.cs",
+              "RelativeDocumentMoniker": "SATS.API\\Program.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\Program.cs",
+              "RelativeToolTip": "SATS.API\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:22:11.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InitialCreate.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Migrations\\InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\InitialCreate.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Migrations\\InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\InitialCreate.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:33:46.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:33:46.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AttendanceSession.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Entities\\AttendanceSession.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AttendanceSession.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Entities\\AttendanceSession.cs",
+              "RelativeToolTip": "Domain\\Entities\\AttendanceSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:33:46.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceRecord.cs",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Entities\\AttendanceRecord.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AttendanceRecord.cs",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\Domain\\Entities\\AttendanceRecord.cs",
+              "RelativeToolTip": "Domain\\Entities\\AttendanceRecord.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:33:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SATS.API.csproj",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\SATS.API.csproj",
+              "RelativeDocumentMoniker": "SATS.API\\SATS.API.csproj",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\SATS.API.csproj",
+              "RelativeToolTip": "SATS.API\\SATS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-25T14:33:46.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SATS.API",
+              "DocumentMoniker": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\SATS.API.csproj",
+              "RelativeDocumentMoniker": "SATS.API\\SATS.API.csproj",
+              "ToolTip": "E:\\Semester 5\\C#\\final Project\\SATS Final Project of C#\\SATS Final Project of C#\\m.abah\\SATS\\SATS.API\\SATS.API.csproj",
+              "RelativeToolTip": "SATS.API\\SATS.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-25T14:33:46.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

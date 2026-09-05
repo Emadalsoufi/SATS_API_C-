@@ -1,0 +1,45 @@
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\bin\Debug\net5.0\Application.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\bin\Debug\net5.0\Domain.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\bin\Debug\net5.0\Domain.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\refint\Application.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\Application\obj\Debug\net5.0\ref\Application.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Application.deps.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Application.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Application.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Domain.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\refint\Application.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\ref\Application.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Application.deps.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Application.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Application.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\bin\Debug\net5.0\Domain.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Applicat.44B5EDA2.Up2Date
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\refint\Application.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\Application.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\Application\obj\Debug\net5.0\ref\Application.dll

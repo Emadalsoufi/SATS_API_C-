@@ -1,0 +1,216 @@
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\SATS.API.exe
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\SATS.API.deps.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\SATS.API.runtimeconfig.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\SATS.API.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\SATS.API.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\SATS.API.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Application.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Domain.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Application.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\bin\Debug\net5.0\Domain.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\scopedcss\bundle\SATS.API.styles.css
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\SATS.API.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\SATS.API.StaticWebAssets.Pack.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.SATS.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.build.SATS.API.props
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SATS.API.props
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SATS.API.props
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.CopyComplete
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\refint\SATS.API.dll
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.pdb
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\SATS.API.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\SATS_net5_delivery\SATS\SATS.API\obj\Debug\net5.0\ref\SATS.API.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\appsettings.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.exe
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.deps.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.runtimeconfig.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.runtimeconfig.dev.json
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\AutoMapper.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Humanizer.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Application.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Domain.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Infrastructure.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Application.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Infrastructure.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Domain.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.AssemblyReference.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.AssemblyInfoInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.AssemblyInfo.cs
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.CoreCompileInputs.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.RazorTargetAssemblyInfo.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\scopedcss\bundle\SATS.API.styles.css
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\SATS.API.StaticWebAssets.Manifest.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\SATS.API.StaticWebAssets.Pack.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.SATS.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.build.SATS.API.props
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SATS.API.props
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SATS.API.props
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.CopyComplete
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\refint\SATS.API.dll
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.pdb
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.genruntimeconfig.cache
+E:\C#\c# HomeWork\Lab\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\ref\SATS.API.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.AssemblyReference.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.AssemblyInfoInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.AssemblyInfo.cs
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.CoreCompileInputs.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\appsettings.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.exe
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.deps.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.runtimeconfig.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.runtimeconfig.dev.json
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\SATS.API.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\AutoMapper.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Humanizer.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Application.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Domain.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Infrastructure.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Application.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Infrastructure.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\bin\Debug\net5.0\Domain.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.RazorTargetAssemblyInfo.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\scopedcss\bundle\SATS.API.styles.css
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\SATS.API.StaticWebAssets.Manifest.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\SATS.API.StaticWebAssets.Pack.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.SATS.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.build.SATS.API.props
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SATS.API.props
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SATS.API.props
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.csproj.Up2Date
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\refint\SATS.API.dll
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.pdb
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\SATS.API.genruntimeconfig.cache
+E:\Semester 5\C#\final Project\SATS Final Project of C#\SATS Final Project of C#\m.abah\SATS\SATS.API\obj\Debug\net5.0\ref\SATS.API.dll
