@@ -8,14 +8,14 @@ SATS lets instructors open a time-boxed attendance session for a course session,
 
 ## Architecture
 
+The solution is split into four projects, each with a single responsibility, following Clean Architecture:
+
+```
 Domain          → Entities and repository interfaces. No dependencies on any other layer.
 Infrastructure  → EF Core DbContext, repository implementations, migrations.
 Application     → DTOs, service interfaces, service implementations (business rules), AutoMapper profiles.
 SATS.API        → ASP.NET Core Web API controllers (presentation layer), Swagger, exception middleware.
-
-The solution is split into four projects, each with a single responsibility, following Clean Architecture:
-
-
+```
 
 Dependencies only point inward: `API → Application → Domain`, with `Infrastructure` implementing the interfaces defined in `Domain`. This keeps business rules independent of EF Core and the web framework, and makes each layer independently testable.
 
@@ -43,6 +43,8 @@ Key relationship rules (enforced via EF Core Fluent API):
 - An `AttendanceRecord` is unique per `(StudentId, SessionId)` — a student can't be recorded twice for the same session.
 
 ## Project Structure
+
+```
 Domain/
   Entities/         User, Course, Enrollment, AttendanceSession, AttendanceRecord, AuditLog
   IRepository/      IUserRepository, ICourseRepository, IEnrollmentRepository,
@@ -65,6 +67,7 @@ SATS.API/
                      AttendanceRecords, AuditLogs) + shared BaseController
   Middleware/        Global exception-handling middleware
   Program.cs          DI registration, DB migration on startup, Swagger setup
+```
 
 ## Getting Started
 
