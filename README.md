@@ -8,6 +8,11 @@ SATS lets instructors open a time-boxed attendance session for a course session,
 
 ## Architecture
 
+Domain          → Entities and repository interfaces. No dependencies on any other layer.
+Infrastructure  → EF Core DbContext, repository implementations, migrations.
+Application     → DTOs, service interfaces, service implementations (business rules), AutoMapper profiles.
+SATS.API        → ASP.NET Core Web API controllers (presentation layer), Swagger, exception middleware.
+
 The solution is split into four projects, each with a single responsibility, following Clean Architecture:
 
 
@@ -38,7 +43,28 @@ Key relationship rules (enforced via EF Core Fluent API):
 - An `AttendanceRecord` is unique per `(StudentId, SessionId)` — a student can't be recorded twice for the same session.
 
 ## Project Structure
+Domain/
+  Entities/         User, Course, Enrollment, AttendanceSession, AttendanceRecord, AuditLog
+  IRepository/      IUserRepository, ICourseRepository, IEnrollmentRepository,
+                     IAttendanceSessionRepository, IAttendanceRecordRepository, IAuditLogRepository
+  Common/           Shared domain constants (e.g. session status values)
 
+Infrastructure/
+  Data/             AppDbContext (DbSets + Fluent API model configuration)
+  Repository/       EF Core implementations of the Domain repository interfaces
+  Migrations/       EF Core migrations
+
+Application/
+  DTOs/             Data transfer objects exposed by the API
+  IService/         Service interfaces (business-facing contracts)
+  ServiceImpl/      Service implementations — validation and business rules live here
+  Common/           AutoMapper profile, custom exceptions, business rule constants
+
+SATS.API/
+  Controllers/      REST controllers (Users, Courses, Enrollments, AttendanceSessions,
+                     AttendanceRecords, AuditLogs) + shared BaseController
+  Middleware/        Global exception-handling middleware
+  Program.cs          DI registration, DB migration on startup, Swagger setup
 
 ## Getting Started
 
